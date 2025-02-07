@@ -1,7 +1,6 @@
 
-# ConvNeXt implementation for 2022 AI Cup, with Cropping tool feature
-
-## 農地作物現況調查影像辨識競賽-秋季賽：AI作物影像判釋 新增照片裁切工具
+# ConvNeXt implementation for 2022 AI Cup
+## 農地作物現況調查影像辨識競賽-秋季賽：AI作物影像判釋
 
 ### 1. 環境安裝
 
